@@ -1,0 +1,28 @@
+Subject: Built a gate that blocks AI agent failures
+
+Hi [Name],
+
+I noticed you're building AI agents [context from their website/LinkedIn].
+
+I analyzed why 95% of agents fail in production, and it comes down to 5 things:
+- Ambiguous intent (refund ALL customers)
+- Stale state reads (old balance → overdraft)
+- Unbounded actions (email everyone)
+- Irreversible damage (delete without backup)
+- Black-box reasoning (no audit trail)
+
+Built a gate that stops all 5 before agents act.
+
+One-line integration:
+```python
+decision = are.can_execute(action, params, reasoning, state_deps)
+if decision.allowed:
+    execute()
+Just launched on GitHub (open source, MIT).
+
+Would love your feedback on the demo. Takes 2 minutes:
+https://github.com/YOUR_USERNAME/agent-reliability-engine
+
+Best,
+Muhammed Hafeel
+Agent Reliability Engine
