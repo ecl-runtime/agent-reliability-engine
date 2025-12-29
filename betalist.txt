@@ -1,0 +1,15 @@
+People building agents (find on GitHub/LinkedIn):
+1. AI agent startup founders
+2. Indie hackers building agents  
+3. SaaS engineers with agent projects
+4. Sales engineers at agent platforms
+
+Look for:
+- Recent agent project posts on LinkedIn
+- GitHub repos with "agent" in description
+- Twitter/X threads about agent failures
+- Reddit posts in r/MachineLearning
+- ProductHunt launches with agent
+
+Target: 20 people. Send personalized emails.
+
