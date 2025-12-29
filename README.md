@@ -1,4 +1,9 @@
 # 🎯 Agent Reliability Engine
+[![Stars](https://img.shields.io/github/stars/ecl-runtime/agent-reliability-engine?style=social)](https://github.com/ecl-runtime/agent-reliability-engine)
+[![Forks](https://img.shields.io/github/forks/ecl-runtime/agent-reliability-engine?style=social)](https://github.com/ecl-runtime/agent-reliability-engine)
+[![Issues](https://img.shields.io/github/issues/ecl-runtime/agent-reliability-engine)](https://github.com/ecl-runtime/agent-reliability-engine/issues)
+[![License](https://img.shields.io/github/license/ecl-runtime/agent-reliability-engine)](https://github.com/ecl-runtime/agent-reliability-engine/blob/main/LICENSE)
+
 **Blocks $487k AI Agent Disasters**
 
 95% of AI agents fail in production. Not model problems.
